@@ -1,6 +1,6 @@
 # Product Landing Page
 
-**GitHub Page**: 
+**GitHub Page**: https://haucheng13.github.io/ProductLandingPage/
 
 Made my own Product Landing Page for dumbbells, gym equipments etc etc
 
